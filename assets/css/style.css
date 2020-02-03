@@ -87,13 +87,13 @@ hr {
 
 .portImg{
     position: relative;
-    width: 400px;
+    width: 200px;
     height: 200px;
     margin: 10px;
 
 }
 img{
-    width: 400px;
+    width: 200px;
     height: 200px;
 }
 
@@ -131,6 +131,7 @@ input[type=submit]{
     text-align: center;
     color: white;
     font-size: 10px; 
+    justify-content: center;
 }
 .footer p{
     width: 100%;
@@ -139,8 +140,14 @@ input[type=submit]{
     bottom: 0;
     margin: 0;
 }
+.inlineImg{
+    margin-left: 0px;
+    height: 20px;
+    width: 20px;
+
+}
 .footImg{
-    margin-left: 30px;
+    margin-left: 20px;
     height: 20px;
     width: 20px;
 
