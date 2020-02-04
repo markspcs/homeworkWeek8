@@ -1,8 +1,5 @@
-
-<h1>Portfolio</h1>
-<hr>
-
 # Portfolio
+https://github.com/markspcs/homeworkWeek8
 
 ## Description 
 
@@ -13,6 +10,8 @@ This project only contains 3 pages from the ~/directory.
 	
 Shared css in ~/assets/css
 	style.css
+
+![screen shot](./assets/images/screenShot.png)
 	
 ## Installation
 
@@ -24,5 +23,6 @@ all file in ~/ are meant to be opened in a browser
 
 ## Credits
 
-## License
+This program includes bootstrap from http://getbootstrap.com 
+
 
