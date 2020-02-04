@@ -1,5 +1,5 @@
 # Portfolio
-https://github.com/markspcs/homeworkWeek8
+https://markspcs.github.io/homeworkWeek8/
 
 ## Description 
 
